@@ -19,7 +19,7 @@ iOS Native Swift Livestream App, LiveD.
 
 ## Socket IO Back-end Server
 
-[LiveD Socket Back-end](https://github.com/affkoul/swift-ios-livestream-app-backend)
+[LiveD Socket Back-end](https://github.com/affkoul/swift-ios-livestream-app-socket-backend)
 
 ## in Action
 
