@@ -17,9 +17,9 @@ iOS Native Swift Livestream App, LiveD.
 
 [LiveD Auth Back-end](https://github.com/affkoul/swift-ios-livestream-app-auth-backend)
 
-## Back-end Server
+## Socket IO Back-end Server
 
-[LiveD Back-end Server](https://github.com/affkoul/swift-ios-livestream-app-backend)
+[LiveD Socket Back-end](https://github.com/affkoul/swift-ios-livestream-app-backend)
 
 ## in Action
 
