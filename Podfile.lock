@@ -1,0 +1,56 @@
+PODS:
+  - Alamofire (5.2.1)
+  - IQKeyboardManagerSwift (6.5.5)
+  - LFLiveKit (2.3)
+  - R.swift (3.1.0):
+    - R.swift.Library (~> 3.0.2)
+  - R.swift.Library (3.0.2)
+  - Socket.IO-Client-Swift-Q (11.0.0):
+    - StarscreamSocketIO (~> 8.0.1)
+  - StarscreamSocketIO (8.0.7)
+  - SVProgressHUD (2.0.3)
+  - SwiftRichString (3.7.2)
+  - SwiftyJSON (5.0.0)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - IQKeyboardManagerSwift
+  - LFLiveKit
+  - R.swift
+  - Socket.IO-Client-Swift-Q
+  - SVProgressHUD
+  - SwiftRichString
+  - SwiftyJSON
+  - Toast-Swift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - LFLiveKit
+    - R.swift
+    - R.swift.Library
+    - Socket.IO-Client-Swift-Q
+    - StarscreamSocketIO
+    - SVProgressHUD
+    - SwiftRichString
+    - SwiftyJSON
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: e911732990610fe89af59ac0077f923d72dc3dfd
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  LFLiveKit: 76a5cb34509f8cbe25e3a95824cf80f36d36679b
+  R.swift: 14400e5784224d1e4e59a8fc5549198c7e8fe360
+  R.swift.Library: fbdec16c9802ad104fc1ba53415dc190e6ec5c73
+  Socket.IO-Client-Swift-Q: 2e2039a19120f25544179a016e7862f2393ce9a7
+  StarscreamSocketIO: 00b54e4208481ca5cef089545353aaf126bae16d
+  SVProgressHUD: b0830714205bea1317ea1a2ebc71e5633af334d4
+  SwiftRichString: d61b807db1f8834c26fee92b6dd3e1be2dc5af03
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: 205b87b2fdc785b5c261f49c534ee9fa780acaf4
+
+COCOAPODS: 1.11.3

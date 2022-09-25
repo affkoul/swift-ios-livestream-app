@@ -1,0 +1,6 @@
+framework module SocketIOQ {
+  umbrella header "Socket.IO-Client-Swift-Q-umbrella.h"
+
+  export *
+  module * { export * }
+}
