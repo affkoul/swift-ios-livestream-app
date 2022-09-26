@@ -7,7 +7,7 @@ iOS Native Swift Livestream App, LiveD.
 
 3. Open with xcode.
 
-4. Configure properly your developer account details. Replace all “server IP” with the proper server IP.
+4. Configure properly your developer account details. Replace all "server IP" with the proper server IP.
 
 5. Run on your test device or simulator.
 
