@@ -27,4 +27,4 @@ iOS Native Swift Livestream App, LiveD.
 
 Livestream iOS App, LiveD by [GAC DEV](https://geniusandcourage.com)
 
-![LiveD App](https://geniusandcourage.com/iTunesArtwork@2x.png)
+![LiveD App](https://hlwsdtech.com:8081/images/iTunesArtwork@2x.png)
